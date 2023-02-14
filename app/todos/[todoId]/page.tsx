@@ -53,5 +53,8 @@ export async function generateStaticPerams(){
 
 }
 
-//Fortsetter fra 17:10 
+//Fortsetter fra 24:10 
 //https://www.youtube.com/watch?v=6aP9nyTcd44&ab_channel=SonnySangha
+
+//Git commit -m ""
+//Git push origin master
